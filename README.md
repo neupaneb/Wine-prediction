@@ -9,8 +9,7 @@ This project uses machine learning to predict the quality of red wine based on v
 * [Dependencies](#dependencies)
 * [Usage](#usage)
 * [Results](#results)
-* [Contributing](#contributing)
-* [License](#license)
+
 
 
 ## Background
